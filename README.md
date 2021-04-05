@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+Hi everyone!
+I like Python and GitHub :3
